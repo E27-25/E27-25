@@ -25,18 +25,18 @@ My projects range from experimenting with **LLM fine-tuning (LoRA/QLoRA)** and *
 
 ### 📈 Coding Activity & Stats
 
-<div align="center">
+<p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=watinpromfiy&show_icons=true&theme=transparent&hide_border=true&title_color=3776AB&text_color=AAAAAA"
+    src="https://github-readme-stats.vercel.app/api?username=E27-25&show_icons=true&theme=transparent&hide_border=true"
     height="150"
     alt="GitHub stats"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=watinpromfiy&layout=compact&theme=transparent&hide_border=true&title_color=3776AB&text_color=AAAAAA"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=E27-25&layout=compact&theme=transparent&hide_border=true"
     height="150"
     alt="Top languages"
   />
-</div>
+</p>
 
 ---
 
