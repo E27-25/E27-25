@@ -29,10 +29,11 @@ From **LLM fine-tuning (LoRA/QLoRA)** and **RAG architectures** to applications 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=E27-25&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF&count_private=true" alt="GitHub Stats" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=E27-25&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8" alt="Top Languages" height="170" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=E27-25&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF&count_private=true&include_all_commits=true)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=E27-25&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" alt="GitHub Streak" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=E27-25&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8&hide=jupyter%20notebook)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=E27-25&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F)
 
 </div>
 
@@ -203,7 +204,7 @@ From **LLM fine-tuning (LoRA/QLoRA)** and **RAG architectures** to applications 
 - 🌱 Exploring advanced RAG techniques and knowledge graph integration
 - 👯 Looking to collaborate on open-source LLM and agent projects
 - 💬 Ask me about **LLMs, RAG, multi-agent systems, prompt engineering, or fine-tuning**
-- ⚡ Fun fact: I've won 3 first-place hackathon awards in 2025 alone!
+- ⚡ Fun fact: I've won 3 first-place hackathon awards in 2025 (and counting)!
 
 ---
 
