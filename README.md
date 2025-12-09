@@ -9,8 +9,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/watin-promfiy-6b9ba221a/)
 [![GitHub](https://img.shields.io/badge/GitHub-E27--25-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/E27-25)
 
-![Profile Views](https://komarev.com/ghpvc/?username=E27-25&color=blueviolet&style=flat-square&label=Profile+Views)
-
 </div>
 
 ---
