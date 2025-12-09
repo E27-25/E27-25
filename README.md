@@ -27,12 +27,12 @@ My projects range from experimenting with **LLM fine-tuning (LoRA/QLoRA)** and *
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=E27-25&show_icons=true&theme=transparent&hide_border=true"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=E27-25&show_icons=true&theme=transparent&hide_border=true"
     height="150"
     alt="GitHub stats"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=E27-25&layout=compact&theme=transparent&hide_border=true"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=E27-25&layout=compact&theme=transparent&hide_border=true"
     height="150"
     alt="Top languages"
   />
@@ -83,7 +83,7 @@ My projects range from experimenting with **LLM fine-tuning (LoRA/QLoRA)** and *
 | **Winner (Royal Cup)** | **BDI Hackathon 2025 – Smart Tourism** | Built a **Knowledge Graph–driven recommendation engine**, mapping user preferences to attractions to generate personalized itineraries for Chiang Mai. |
 | **Winner** | **ExxonMobil Bootcathon 2025** | Designed an **agentic workflow with n8n**, including a **Text-to-PandasQuery GenAI app** for natural language data exploration. |
 | **Winner** | **Krungsri UniVerse x KMITL 2025 – Mule Hunt** | Used **web crawling + graph visualization + LLMs** to reveal mule account networks and fraud patterns across buying/selling communities. |
-| **2nd Runner-Up** | **AI Thailand Hackathon 2025 (NECTEC)** | Created **DAMZ (Zero-shot)** – a zero-shot object/action detection system using Thai/English natural language commands, **reducing dependence on large labeled datasets**. |
+| **2nd Runner-Up** | **AI Thailand Hackathon 2025 (NECTEC)** | Created **DAMZ (Zero-shot)** – a zero-shot object/action detection system using Thai/English natural language commands, reducing dependence on large labeled datasets. |
 | **2nd Runner-Up** | **Huawei ICT Competition 2025 – Cloud Track** | Placed **Top 3 nationally** for cloud-native architectures and AI/LLM system design on **Huawei Cloud**. |
 | **Silver Medal** | **Super AI Engineer Season 4** | Built **Computer Vision & ML** solutions using **GBM, SVM, Transformers**, and practical CV pipelines. |
 | **1st Runner-Up** | **Innovation for Crime Combating (I4C) 2023** | Developed a **deepfake video detection** pipeline using a **CNN ensemble**, supporting DSI/NECTEC in digital forensics. |
