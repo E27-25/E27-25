@@ -8,7 +8,7 @@
   <br>
 
   [![Email](https://img.shields.io/badge/Email-66070184%40kmitl.ac.th-D14836?style=flat&logo=gmail&logoColor=white)](mailto:66070184@kmitl.ac.th)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-profile-link) <br>
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/watin-promfiy-6b9ba221a/) <br>
 </div>
 
 ---
