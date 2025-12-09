@@ -18,9 +18,18 @@
 
 ### 🚀 About Me
 
-[cite_start]I am a **Data Science and Business Analytics** student at **KMITL** specializing in **Deep Learning**, **Large Language Models (LLMs)**, and **Autonomous Agentic Systems**[cite: 6, 12, 13]. [cite_start]I have a passion for creating "hands-free" AI workflows and utilizing **Knowledge Graphs** to solve complex data problems[cite: 8].
+I am a **Data Science and Business Analytics** student at **KMITL** specializing in **Deep Learning**, **Large Language Models (LLMs)**, and **Autonomous Agentic Systems**. I have a passion for creating "hands-free" AI workflows and utilizing **Knowledge Graphs** to solve complex data problems.
 
-[cite_start]My work bridges the gap between research and application—ranging from **Fine-tuning LoRA/QLoRA** models to winning national hackathons by applying AI to financial fraud detection, smart tourism, and industrial automation[cite: 8, 18, 27].
+My work bridges the gap between research and application—ranging from **Fine-tuning LoRA/QLoRA** models to winning national hackathons by applying AI to financial fraud detection, smart tourism, and industrial automation.
+
+---
+
+### 📊 Coding Activity & Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=transparent&hide_border=true&title_color=3776AB&text_color=555" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=transparent&hide_border=true&title_color=3776AB&text_color=555" height="150" alt="languages graph"  />
+</div>
 
 ---
 
@@ -62,12 +71,12 @@
 
 | 🥇 Rank | Event | Innovation / Tech Stack |
 | :--- | :--- | :--- |
-| **Winner (Royal Cup)** | **BDI Hackathon 2025** (Smart Tourism) | [cite_start]**Knowledge Graphs**: Mapped complex relationships between user preferences and destinations to generate personalized itineraries[cite: 27, 28]. |
-| **Winner** | **ExxonMobil Bootcathon 2025** | [cite_start]**Agentic Workflow (n8n)**: Created a "Text-to-PandasQuery" GenAI app, allowing natural language data access[cite: 31, 32]. |
-| **Winner** | **Krungsri UniVerse x KMITL 2025** (Mule Hunt) | [cite_start]**Graph Vis & LLM**: Traced fraud account origins using web crawling and graph visualization to map buying/selling networks[cite: 34, 35]. |
+| **Winner (Royal Cup)** | **BDI Hackathon 2025** (Smart Tourism) | **Knowledge Graphs**: Mapped complex relationships between user preferences and destinations to generate personalized itineraries. |
+| **Winner** | **ExxonMobil Bootcathon 2025** | **Agentic Workflow (n8n)**: Created a "Text-to-PandasQuery" GenAI app, allowing natural language data access. |
+| **Winner** | **Krungsri UniVerse x KMITL 2025** (Mule Hunt) | **Graph Vis & LLM**: Traced fraud account origins using web crawling and graph visualization to map buying/selling networks. |
 | **2nd Runner-Up** | **AI Thailand Hackathon 2025** (NECTEC) | **DAMZ (Zero-shot)**: Developed a Zero-shot object/action detection system using Thai/English natural language commands, eliminating large datasets. |
-| **2nd Runner-Up** | **Huawei ICT Competition 2025** | [cite_start]**Cloud Track**: Top 3 National placement for Cloud Services and AI/LLM architecture mastery[cite: 37, 39]. |
-| **Silver Medal** | **Super AI Engineer Season 4** | [cite_start]**Computer Vision**: Recognized for high-impact solutions in predictive modeling (GBM, SVM, Transformers)[cite: 40, 41]. |
+| **2nd Runner-Up** | **Huawei ICT Competition 2025** | **Cloud Track**: Top 3 National placement for Cloud Services and AI/LLM architecture mastery. |
+| **Silver Medal** | **Super AI Engineer Season 4** | **Computer Vision**: Recognized for high-impact solutions in predictive modeling (GBM, SVM, Transformers). |
 | **1st Runner Up** | **Innovation for Crime Combating (I4C) 2023** | **Deepfake Detection**: Built a CNN ensemble model to identify and flag deepfake videos for the DSI/NECTEC. |
 | **1st Runner Up** | **Krungsri UniVerse x KMITL 2024** | **AI for Autism**: Developed AI-powered personalized learning content for children with autism. |
 | **Honorable Mention** | **AI Thailand Hackathon 2024** | **CV Analyzer**: Automated Thai resume evaluation using AI to match candidates with job requirements via "APIs on Shelf". |
@@ -78,28 +87,28 @@
 ### 💼 Professional Experience
 
 **🤖 AI Engineer (Part-Time) @ Bot and Life** *(July 2025 - Present)*
-* [cite_start]**Multi-Agent Systems:** Engineered a pipeline where specialized AI agents collaborate to automate marketing asset creation[cite: 14, 15].
-* [cite_start]**Prompt Engineering:** Optimized context expansion for autonomous agents[cite: 16].
+* **Multi-Agent Systems:** Engineered a pipeline where specialized AI agents collaborate to automate marketing asset creation.
+* **Prompt Engineering:** Optimized context expansion for autonomous agents.
 
 **🎓 Teaching Assistant @ AIAT (Super AI Engineer S5)** *(April 2025 - July 2025)*
-* [cite_start]**Mentorship:** Taught LANTA, LLM Inference, and Fine-tuning (LoRA/QLoRA)[cite: 17, 18].
-* [cite_start]**Research:** Led paper reading sessions on state-of-the-art AI architectures[cite: 19].
+* **Mentorship:** Taught LANTA, LLM Inference, and Fine-tuning (LoRA/QLoRA).
+* **Research:** Led paper reading sessions on state-of-the-art AI architectures.
 
 **🧠 LLM & Prompt Engineer Intern @ Bot and Life** *(Nov 2024 - Feb 2025)*
-* [cite_start]**Architecture:** Built an AI task management system with **Long-term Memory** capabilities[cite: 20, 21].
-* [cite_start]**Optimization:** Developed frameworks to minimize hallucination in LLM outputs[cite: 22].
+* **Architecture:** Built an AI task management system with **Long-term Memory** capabilities.
+* **Optimization:** Developed frameworks to minimize hallucination in LLM outputs.
 
 **☀️ Data Science Intern (K-LAB) @ KBTG** *(July 2024 - Dec 2024)*
-* [cite_start]**Solar Energy:** Used **PyTorch** & Satellite Imagery to calculate roof surface area and solar potential[cite: 23, 24].
-* [cite_start]**Real Estate:** Developed a "Condo Similarity Suggestion" engine using **Geospatial Data**[cite: 25].
+* **Solar Energy:** Used **PyTorch** & Satellite Imagery to calculate roof surface area and solar potential.
+* **Real Estate:** Developed a "Condo Similarity Suggestion" engine using **Geospatial Data**.
 
 ---
 
 ### 🎓 Education
 
 **King Mongkut's Institute of Technology Ladkrabang (KMITL)**
-* **Degree:** B.Sc. [cite_start]Information Technology - Data Science and Business Analytics [cite: 12, 13]
-* [cite_start]**Focus:** Deep Learning, Big Data Systems, Cloud Technology, Network Cybersecurity[cite: 52].
+* **Degree:** B.Sc. Information Technology - Data Science and Business Analytics
+* **Focus:** Deep Learning, Big Data Systems, Cloud Technology, Network Cybersecurity.
 
 ---
 
