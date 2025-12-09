@@ -1,132 +1,163 @@
 <div align="center">
 
-  # Hi there, I'm Watin Promfiy! 👋
-  
-  <b>AI Engineer & Data Scientist</b><br>
-  <i>Working with LLMs, Multi-Agent Systems, and Knowledge Graphs</i>
-  
-  <br>
+# 👋 Hi there, I'm Watin Promfiy!
 
-  [![Email](https://img.shields.io/badge/Email-66070184%40kmitl.ac.th-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:66070184@kmitl.ac.th)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/watin-promfiy-6b9ba221a/)
+**AI Engineer & Data Scientist**  
+*Specializing in LLMs, Multi-Agent Systems & Knowledge Graphs*
 
-  <br><br>
+[![Email](https://img.shields.io/badge/Email-66070184%40kmitl.ac.th-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:66070184@kmitl.ac.th)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/watin-promfiy-6b9ba221a/)
+[![GitHub](https://img.shields.io/badge/GitHub-E27--25-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/E27-25)
+
 </div>
 
 ---
 
-### 💡 About Me
+## 💡 About Me
 
-I’m a **Data Science and Business Analytics** student at **KMITL** interested in how AI can be used to solve real-world problems. I work with **Large Language Models (LLMs)**, **agentic workflows**, **knowledge graphs**, and **deep learning**, and I enjoy building systems that can automate tasks and make complex data easier to understand.
+I'm a **Data Science and Business Analytics** student at **KMITL**, passionate about leveraging AI to solve real-world challenges. My work spans **Large Language Models (LLMs)**, **agentic workflows**, **knowledge graphs**, and **deep learning** — creating systems that automate complex tasks and transform data into actionable insights.
 
-My projects range from experimenting with **LLM fine-tuning (LoRA/QLoRA)** and **RAG** to applying AI in areas like **tourism, finance, accessibility, education, and industrial automation**. I like exploring new ideas, experimenting with different tools, and turning them into practical solutions.
-
----
-
-### 📈 Coding Activity & Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=E27-25&show_icons=true&theme=transparent&hide_border=true"
-    height="150"
-    alt="GitHub stats"
-  />
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=E27-25&layout=compact&theme=transparent&hide_border=true"
-    height="150"
-    alt="Top languages"
-  />
-</p>
+From **LLM fine-tuning (LoRA/QLoRA)** and **RAG architectures** to applications in **tourism, finance, accessibility, education, and industrial automation** — I thrive on experimentation and turning innovative ideas into practical solutions.
 
 ---
 
-### 🛠️ Technical Arsenal
+## 📊 GitHub Stats & Activity
 
 <div align="center">
 
-#### Languages & Data
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Data_Science-Pandas/NumPy-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=E27-25&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF)
 
-<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=E27-25&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF)
 
-#### AI & Deep Learning
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-
-<br/>
-
-#### Generative AI & Agentic Workflows
-<img src="https://img.shields.io/badge/LLM_Fine--Tuning-LoRA%2FQLoRA-8A2BE2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-F97316?style=for-the-badge" />
-<img src="https://img.shields.io/badge/n8n-FF6F61?style=for-the-badge&logo=n8n&logoColor=white" />
-<img src="https://img.shields.io/badge/Multi--Agent_Systems-Bot_&_Life-16A34A?style=for-the-badge" />
-
-<br/>
-
-#### Cloud & Infrastructure
-<img src="https://img.shields.io/badge/Huawei_Cloud-C0282D?style=for-the-badge&logo=huawei&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=E27-25&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F)
 
 </div>
 
 ---
 
-### 🏆 Hall of Fame — Hackathons & Awards
+## 🛠️ Technical Arsenal
 
-| 🏅 Rank | Event | Innovation / Tech Stack |
-| :--- | :--- | :--- |
-| **Winner (Royal Cup)** | **BDI Hackathon 2025 – Smart Tourism** | Built a **Knowledge Graph–driven recommendation engine**, mapping user preferences to attractions to generate personalized itineraries for Chiang Mai. |
-| **Winner** | **ExxonMobil Bootcathon 2025** | Designed an **agentic workflow with n8n**, including a **Text-to-PandasQuery GenAI app** for natural language data exploration. |
-| **Winner** | **Krungsri UniVerse x KMITL 2025 – Mule Hunt** | Used **web crawling + graph visualization + LLMs** to reveal mule account networks and fraud patterns across buying/selling communities. |
-| **2nd Runner-Up** | **AI Thailand Hackathon 2025 (NECTEC)** | Created **DAMZ (Zero-shot)** – a zero-shot object/action detection system using Thai/English natural language commands, reducing dependence on large labeled datasets. |
-| **2nd Runner-Up** | **Huawei ICT Competition 2025 – Cloud Track** | Placed **Top 3 nationally** for cloud-native architectures and AI/LLM system design on **Huawei Cloud**. |
-| **Silver Medal** | **Super AI Engineer Season 4** | Built **Computer Vision & ML** solutions using **GBM, SVM, Transformers**, and practical CV pipelines. |
-| **1st Runner-Up** | **Innovation for Crime Combating (I4C) 2023** | Developed a **deepfake video detection** pipeline using a **CNN ensemble**, supporting DSI/NECTEC in digital forensics. |
-| **1st Runner-Up** | **Krungsri UniVerse x KMITL 2024** | Created **AI for Autism** – an AI system that generates **personalized learning content** for children with autism. |
-| **Honorable Mention** | **AI Thailand Hackathon 2024** | Built a **Thai CV Analyzer** to evaluate resumes and match candidates to jobs via reusable **“APIs on Shelf”**. |
-| **Top 15** | **JUMP THAILAND 2024** | Developed an **accessibility-focused image captioning system** using Transformers and attention for visually impaired users. |
+<div align="center">
 
----
+### Languages & Core Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-### 💼 Professional Experience
+### AI & Deep Learning
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-**🤖 AI Engineer (Part-Time) @ Bot and Life**  
-*Jul 2025 – Present*  
-- Designed **multi-agent pipelines** that generate marketing assets from high-level prompts.  
-- Worked on **prompt engineering** and context design for long-running autonomous agents.
+### Generative AI & Agentic Workflows
+![LLM Fine-Tuning](https://img.shields.io/badge/LLM_Fine--Tuning-LoRA%2FQLoRA-8A2BE2?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-F97316?style=for-the-badge)
+![n8n](https://img.shields.io/badge/n8n-FF6F61?style=for-the-badge&logo=n8n&logoColor=white)
+![Multi-Agent](https://img.shields.io/badge/Multi--Agent_Systems-16A34A?style=for-the-badge)
 
-**🎓 Teaching Assistant @ AIAT (Super AI Engineer S5)**  
-*Apr 2025 – Jul 2025*  
-- Assisted teaching on **LANTA, LLM inference, and LoRA/QLoRA fine-tuning**.  
-- Led **paper reading sessions** on modern AI architectures and applications.
+### Cloud & DevOps
+![Huawei Cloud](https://img.shields.io/badge/Huawei_Cloud-C0282D?style=for-the-badge&logo=huawei&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-**🧠 LLM & Prompt Engineer Intern @ Bot and Life**  
-*Nov 2024 – Feb 2025*  
-- Built an **AI task management system with long-term memory**, enabling persistent context across workflows.  
-- Explored approaches to **reduce hallucination** in LLM-based applications.
-
-**☀️ Data Science Intern (K-LAB) @ KBTG**  
-*Jul 2024 – Dec 2024*  
-- Used **PyTorch + satellite imagery** to estimate rooftop solar potential.  
-- Developed a **“Condo Similarity” recommendation engine** using geospatial and property data.
+</div>
 
 ---
 
-### 🎓 Education
+## 🏆 Hall of Fame — Hackathons & Awards
+
+| 🏅 Achievement | Event | Innovation Highlights |
+|:---|:---|:---|
+| **🥇 Winner (Royal Cup)** | **BDI Hackathon 2025 – Smart Tourism** | Knowledge Graph recommendation engine mapping user preferences to Chiang Mai attractions for personalized itineraries |
+| **🥇 Winner** | **ExxonMobil Bootcathon 2025** | Agentic workflow with n8n + Text-to-PandasQuery GenAI app for natural language data exploration |
+| **🥇 Winner** | **Krungsri UniVerse x KMITL 2025** | Web crawling + graph visualization + LLMs to detect mule account networks and fraud patterns |
+| **🥉 2nd Runner-Up** | **AI Thailand Hackathon 2025 (NECTEC)** | DAMZ – Zero-shot object/action detection using Thai/English natural language commands |
+| **🥉 2nd Runner-Up** | **Huawei ICT Competition 2025** | Top 3 nationally for cloud-native architectures and AI/LLM system design on Huawei Cloud |
+| **🥈 Silver Medal** | **Super AI Engineer Season 4** | Computer Vision & ML solutions using GBM, SVM, Transformers, and practical CV pipelines |
+| **🥈 1st Runner-Up** | **Innovation for Crime Combating (I4C) 2023** | Deepfake video detection pipeline using CNN ensemble for DSI/NECTEC digital forensics |
+| **🥈 1st Runner-Up** | **Krungsri UniVerse x KMITL 2024** | AI for Autism – Personalized learning content generation for children with autism |
+| **🎖️ Honorable Mention** | **AI Thailand Hackathon 2024** | Thai CV Analyzer for resume evaluation and job matching via reusable APIs |
+| **🎖️ Top 15** | **JUMP THAILAND 2024** | Accessibility-focused image captioning system using Transformers for visually impaired users |
+
+---
+
+## 💼 Professional Experience
+
+### 🤖 AI Engineer (Part-Time) | Bot and Life
+*July 2025 – Present*
+- Design and implement multi-agent pipelines generating marketing assets from high-level prompts
+- Develop advanced prompt engineering strategies and context design for autonomous agents
+- Optimize agent workflows for consistency and long-term task execution
+
+### 🎓 Teaching Assistant | AIAT (Super AI Engineer S5)
+*April 2025 – July 2025*
+- Instructed on LANTA infrastructure, LLM inference optimization, and LoRA/QLoRA fine-tuning
+- Facilitated paper reading sessions covering cutting-edge AI architectures and applications
+- Mentored students on practical implementation of deep learning models
+
+### 🧠 LLM & Prompt Engineer Intern | Bot and Life
+*November 2024 – February 2025*
+- Built AI task management system with long-term memory for persistent context across workflows
+- Researched and implemented techniques to reduce hallucination in LLM applications
+- Developed prompt templates and chains for complex multi-step reasoning tasks
+
+### ☀️ Data Science Intern (K-LAB) | KBTG
+*July 2024 – December 2024*
+- Applied PyTorch and satellite imagery analysis to estimate rooftop solar panel potential
+- Created "Condo Similarity" recommendation engine using geospatial and property feature data
+- Developed data pipelines for large-scale property analysis and visualization
+
+---
+
+## 🎓 Education
 
 **King Mongkut's Institute of Technology Ladkrabang (KMITL)**  
-**B.Sc. Information Technology – Data Science and Business Analytics**  
-- Focus areas: **Deep Learning**, **Big Data Systems**, **Cloud Technology**, **Network & Cybersecurity**.
+**B.Sc. Information Technology – Data Science and Business Analytics**
+
+**Key Areas of Study:**
+- Deep Learning & Neural Networks
+- Big Data Systems & Analytics
+- Cloud Computing & Infrastructure
+- Network Security & Cybersecurity
+- Natural Language Processing
+- Knowledge Graphs & Graph Neural Networks
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+*Coming soon: Pinned repositories showcasing my best work in LLMs, RAG systems, and multi-agent architectures*
+
+</div>
 
 ---
 
 <div align="center">
-  <i>"Curious about how far we can push AI when research and real-world problems meet."</i>
-  <br/><br/>
-  💌 <b>Open to collaborations, research ideas, and new experiments with LLMs & agents.</b>
+
+### 💭 Philosophy
+
+*"Pushing the boundaries of AI where cutting-edge research meets real-world impact"*
+
+---
+
+### 📬 Let's Connect!
+
+I'm always open to:
+- 🤝 Collaborations on AI/ML projects
+- 💡 Research discussions and new ideas
+- 🔬 Experiments with LLMs and agent systems
+- 📚 Knowledge sharing and mentorship
+
+**Feel free to reach out via email or LinkedIn!**
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=E27-25&color=F85D7F&style=for-the-badge)
+
 </div>
