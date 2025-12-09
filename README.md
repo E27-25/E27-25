@@ -29,11 +29,18 @@ From **LLM fine-tuning (LoRA/QLoRA)** and **RAG architectures** to applications 
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=E27-25&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF&count_private=true&include_all_commits=true)
+<a href="https://github.com/E27-25">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=E27-25&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=E27-25&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=E27-25&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8&hide=jupyter%20notebook)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=E27-25&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=E27-25&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=E27-25&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+</p>
 
 </div>
 
