@@ -35,6 +35,12 @@ From **LLM fine-tuning (LoRA/QLoRA)** and **RAG architectures** to applications 
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
+## 🎮 Side Quest: Tokyo Night Run
+
+<img src="assets/anime-runner.svg" width="100%" alt="Auto-playing mini-game: an original chibi character runs through a Tokyo night city, jumps over bugs, and collects papers and trophies while the score climbs to 2026" />
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
 ## 🧭 My Journey
 
 <img src="assets/journey.svg" width="100%" alt="Timeline 2023–2026: KMITL, KBTG and Bot and Life internships, Super AI Engineer silver medal, three hackathon wins, teaching at AIAT, DGA and KMITL, six accepted papers, AI Engineer Intern at Asia Energy Tech, Musashino University" />
