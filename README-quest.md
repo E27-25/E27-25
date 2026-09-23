@@ -1,21 +1,21 @@
-<img src="assets/hero.svg" width="100%" alt="Watin Promfiy — AI Engineer · Data Scientist · Data Engineer. Synthwave banner with a chrome name over a neon sun; a terminal types: AI Engineer at Asia Energy Tech, LLMs · RAG · multi-agent systems, 6 papers accepted in 2026, Bangkok to Tokyo." />
+<img src="assets/quest-hero.svg" width="100%" alt="Watin Promfiy — AI Engineer · Data Scientist · Data Engineer. Pixel-art JRPG title screen: a knight, a dwarf and a young mage stand on a road that leads past a BKK / TOKYO signpost toward a distant castle while a mint dragon flies overhead. A message window types: AI Engineer at Asia Energy Tech, shipping LLM agents to production; skills LLMs, RAG, multi-agent systems, knowledge graphs; 6 papers accepted in 2026 (5 first-author) and 3 hackathon wins; next stop Tokyo, KMITL to Musashino University." />
 
 <p align="center">
-  <a href="mailto:66070184@kmitl.ac.th"><img src="https://img.shields.io/badge/66070184%40kmitl.ac.th-0b0a1c?style=for-the-badge&logo=gmail&logoColor=ff2bd6" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/watin-promfiy-6b9ba221a/"><img src="https://img.shields.io/badge/LinkedIn-0b0a1c?style=for-the-badge&logo=linkedin&logoColor=22e4ff" alt="LinkedIn" /></a>
-  <a href="https://github.com/E27-25"><img src="https://img.shields.io/badge/E27--25-0b0a1c?style=for-the-badge&logo=github&logoColor=9d6bff" alt="GitHub" /></a>
-  <img src="https://komarev.com/ghpvc/?username=E27-25&label=profile%20views&color=ff2bd6&style=for-the-badge" alt="Profile views" />
+  <a href="mailto:66070184@kmitl.ac.th"><img src="https://img.shields.io/badge/66070184%40kmitl.ac.th-18246a?style=for-the-badge&logo=gmail&logoColor=ffd166" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/watin-promfiy-6b9ba221a/"><img src="https://img.shields.io/badge/LinkedIn-18246a?style=for-the-badge&logo=linkedin&logoColor=6ee6c0" alt="LinkedIn" /></a>
+  <a href="https://github.com/E27-25"><img src="https://img.shields.io/badge/E27--25-18246a?style=for-the-badge&logo=github&logoColor=ff9fc8" alt="GitHub" /></a>
+  <img src="https://komarev.com/ghpvc/?username=E27-25&label=visitors&color=ffd166&style=for-the-badge" alt="Profile views" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/E27-25"><img src="assets/switch-quest.svg" height="40" alt="Switch theme: Quest Party (the current profile)" /></a>
+  <a href="https://github.com/E27-25"><img src="assets/quest-switch.svg" height="40" alt="Switch theme: Synthwave (main profile)" /></a>
 </p>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="assets/quest-divider.svg" width="100%" alt="" />
 
-## `~/about`
+## 🛡️ Party Status
 
-<img src="assets/neofetch.svg" width="100%" alt="neofetch output: E27-25 logo. OS: KMITL B.Sc. IT (DSBA) to Musashino University Data Science, Tokyo. Host: Asia Energy Tech, AI Engineer Intern. Kernel: LLMs, RAG, multi-agent systems, knowledge graphs. Packages: 6 papers accepted in 2026, 5 first-author. GPA 3.87. 3x hackathon winner, BDI Royal Cup 2025. Silver Medal, Super AI Engineer Season 4." />
+<img src="assets/quest-about.svg" width="100%" alt="Party status screen. Leader Watin Promfiy (@E27-25), class AI Engineer. Profile: AI Engineer, Data Scientist, Data Engineer; guild Asia Energy Tech; school KMITL B.Sc. IT (DSBA) to Musashino University, Tokyo. Stats: GPA 3.87/4.00; 6 papers accepted in 2026, 5 first-author; 3× hackathon champion; Silver Medal, Super AI Engineer S4; TA at KMITL, DGA and AIAT; 10 awards and honors. Equipment: Python, SQL, TypeScript; PyTorch, Hugging Face, LangChain, Apple MLX; Airflow, dbt, Kafka, PySpark, PostgreSQL; spells LLMs, RAG, multi-agent systems, knowledge graphs." />
 
 I'm an **AI Engineer Intern at Asia Energy Tech (AET)** and a **Data Science and Business Analytics** student at **KMITL**, now also studying in **Musashino University's Integrated Undergraduate–Master's Program in Data Science** in Tokyo. My work spans **Large Language Models (LLMs)**, **agentic workflows**, **knowledge graphs**, **predictive maintenance**, and **deep learning** — creating systems that automate complex tasks and transform data into actionable insights.
 
@@ -25,29 +25,29 @@ From **LLM fine-tuning (LoRA/QLoRA)** and **RAG architectures** to applications 
 
 **Current focus:** equipment health monitoring and LLM-powered maintenance reporting, alongside multi-agent systems that can reason, plan, and execute complex workflows autonomously.
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="assets/quest-divider.svg" width="100%" alt="" />
 
-## `~/journey`
+## 🗺️ World Map
 
-<img src="assets/git-journey.svg" width="100%" alt="git log --graph of my career, newest first: Sep 2026 Musashino University (HEAD); Jul 2026 AI Engineer Intern at Asia Energy Tech; 2026 six papers accepted (ICONIP, ITC-CSCC, ICITEE, BMEiCON, IBDAP, JCSSE); 2026 TA at KMITL, DGA and AIAT Super AI S6; 2025 three first-place hackathon wins (BDI Royal Cup, ExxonMobil Bootcathon, Krungsri × KMITL); 2025 2nd runner-up at AI Thailand Hackathon and Huawei ICT Competition; Jul 2025 AI Engineer at Bot and Life; Apr 2025 TA at AIAT Super AI S5; Nov 2024 LLM & Prompt Engineer Intern at Bot and Life; 2024 Silver Medal, Super AI Engineer S4; Jul 2024 Data Science Intern at KBTG K-LAB; 2023–24 1st runner-up at I4C and Krungsri × KMITL; 2023 started B.Sc. IT at KMITL." />
+<img src="assets/quest-journey.svg" width="100%" alt="World map of my journey from Bangkok to Tokyo with 13 checkpoints: 2023 KMITL; 2023–24 1st runner-up at I4C and Krungsri × KMITL; Jul 2024 KBTG K-LAB data science intern; 2024 Silver Medal, Super AI Engineer S4; Nov 2024 LLM & Prompt Engineer Intern at Bot and Life; Apr 2025 TA at AIAT Super AI S5; Jul 2025 AI Engineer at Bot and Life; 2025 three first-place hackathon wins; 2025 2nd runner-up at AI Thailand and Huawei ICT; 2026 TA at KMITL, DGA and AIAT S6; 2026 six papers accepted; Jul 2026 AI Engineer Intern at Asia Energy Tech; Sep 2026 Musashino University, Tokyo." />
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="assets/quest-divider.svg" width="100%" alt="" />
 
-## `~/stack`
+## 🎒 Inventory
 
-<img src="assets/stack.svg" width="100%" alt="Tech stack installed with uv. Core: Python, SQL, TypeScript, pandas, NumPy, Plotly, Jupyter. AI: PyTorch, TensorFlow, Hugging Face, LangChain, OpenAI API, scikit-learn, MLX. GenAI: LoRA/QLoRA, RAG, multi-agent systems, n8n, vector DBs. Data: PySpark, Airflow, Kafka, dbt, PostgreSQL, BigQuery, Snowflake. Cloud: Huawei Cloud, AWS, Google Cloud, FastAPI, Docker, Next.js, Git, Linux." />
+<img src="assets/quest-stack.svg" width="100%" alt="Inventory of 34 items. Weapons (languages · notebooks): Python, SQL, TypeScript, pandas, NumPy, Plotly, Jupyter. Spellbooks (deep learning): PyTorch, TensorFlow, Hugging Face, LangChain, OpenAI API, scikit-learn, MLX. Potions (LLMs · agents): LoRA/QLoRA, RAG, multi-agent, n8n, vector DBs. Tools (pipelines · warehouses): PySpark, Airflow, Kafka, dbt, PostgreSQL, BigQuery, Snowflake. Relics (cloud · shipping): Huawei Cloud, AWS, Google Cloud, FastAPI, Docker, Next.js, Git, Linux." />
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="assets/quest-divider.svg" width="100%" alt="" />
 
-## `~/side-quest`
+## ⚔️ Side Quest
 
-<img src="assets/anime-runner.svg" width="100%" alt="Tokyo Night Run: an auto-playing mini-game where an original chibi hacker girl with a laptop runs through a neon Tokyo night, jumps over bugs, and collects papers and trophies while the score climbs to 2026" />
+<img src="assets/quest-battle.svg" width="100%" alt="Side quest: an auto-playing JRPG battle in a server-room dungeon. The party defeats three bugs — NULLPTR with RAG, OFF-BY-1 with unit tests and MEMLEAK with a hotfix — then: Victory! The party gains 2026 EXP. Build passing." />
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="assets/quest-divider.svg" width="100%" alt="" />
 
-## `~/hall-of-fame`
+## 🏆 Achievements Unlocked
 
-<p align="center"><samp>3× winner · 2× 2nd runner-up · 2× 1st runner-up · Silver Medal · Royal Cup, BDI Hackathon 2025</samp></p>
+<p align="center"><samp>10 achievements unlocked · 3× champion · 2× 2nd runner-up · 2× 1st runner-up · Silver Medal</samp></p>
 
 <table>
 <tr>
@@ -118,11 +118,11 @@ From **LLM fine-tuning (LoRA/QLoRA)** and **RAG architectures** to applications 
 
 </table>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="assets/quest-divider.svg" width="100%" alt="" />
 
-## `~/publications`
+## 📜 Scrolls Published
 
-<p align="center"><samp>6 accepted international conference papers in 2026 · 5 as first author</samp></p>
+<p align="center"><samp>6 scrolls accepted at international conferences in 2026 · 5 as first author</samp></p>
 
 <table>
 <tr>
@@ -171,9 +171,9 @@ From **LLM fine-tuning (LoRA/QLoRA)** and **RAG architectures** to applications 
 
 📌 Plus **3 conference papers under review** and **2 journal manuscripts in preparation** · 🧐 External reviewer (subreviewer) for **ICONIP 2026**
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="assets/quest-divider.svg" width="100%" alt="" />
 
-## `~/projects`
+## 📋 Completed Quests
 
 <p align="center"><samp>from research papers to production-ready prototypes</samp></p>
 
@@ -290,9 +290,9 @@ Combines AI chat, Thai text-to-speech, and music streaming in one bot.<br/>
 
 <sub>More: MacBook Vibration Player (Apple Silicon accelerometer) · IoT sensor REST API (Hono + PostgreSQL) · [File Organizer](https://github.com/E27-25/File-Organizer) (OCR + Naive Bayes)</sub>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="assets/quest-divider.svg" width="100%" alt="" />
 
-## `~/experience`
+## 🏰 Guild History
 
 ### ⚡ AI Engineer Intern | Asia Energy Tech (AET)
 **July 2026 – Present**
@@ -321,9 +321,9 @@ Combines AI chat, Thai text-to-speech, and music streaming in one bot.<br/>
 - Developed data pipelines for large-scale property analysis and visualization
 - Collaborated with cross-functional teams to deploy ML models in production
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="assets/quest-divider.svg" width="100%" alt="" />
 
-## `~/teaching`
+## 🧙 Mentor Duties
 
 ### 📘 Teaching Assistant | KMITL — Applied Machine Learning & Data Warehouse (DSBA8)
 **June 2026 – September 2026**
@@ -342,9 +342,9 @@ Combines AI chat, Thai text-to-speech, and music streaming in one bot.<br/>
 - Mentored students on practical implementation of deep learning models
 - Provided guidance on research methodologies and experimental design
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="assets/quest-divider.svg" width="100%" alt="" />
 
-## `~/education`
+## 🎓 Academy
 
 **Musashino University, Tokyo, Japan** 🇯🇵  
 **Integrated Undergraduate–Master's Program in Data Science**  
@@ -365,17 +365,17 @@ Faculty of International Data Science & Graduate School of Data Science
 - Knowledge Graphs & Graph Neural Networks
 - Machine Learning Operations (MLOps)
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="assets/quest-divider.svg" width="100%" alt="" />
 
-## `~/activity`
+## ⏳ Play Time
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=E27-25&hide_border=true&border_radius=16&background=0B0A1C&stroke=29244F&ring=FF2BD6&fire=FF9F43&currStreakNum=EEEAFF&sideNums=22E4FF&currStreakLabel=FF2BD6&sideLabels=9A95C8&dates=5F5A8C" alt="GitHub contribution stats: total contributions, current streak and longest streak" />
+  <img src="https://streak-stats.demolab.com?user=E27-25&border_radius=0&background=18246A&border=F4F7FF&stroke=6A7AD8&ring=FFD166&fire=FF9F43&currStreakNum=F4F7FF&sideNums=6EE6C0&currStreakLabel=FFD166&sideLabels=9FB4FF&dates=9FB4FF" alt="GitHub contribution stats: total contributions, current streak and longest streak" />
 </p>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="assets/quest-divider.svg" width="100%" alt="" />
 
-## `~/now`
+## ✨ Current Quest
 
 - 🔭 Building equipment health monitoring and LLM-powered maintenance reporting at **Asia Energy Tech**
 - 🇯🇵 Starting the integrated undergraduate–master's program in data science at **Musashino University**
@@ -395,4 +395,4 @@ Faculty of International Data Science & Graduate School of Data Science
 
 </div>
 
-<img src="assets/footer.svg" width="100%" alt="Thanks for stopping by — see you in the next commit" />
+<img src="assets/quest-footer.svg" width="100%" alt="Thanks for visiting — see you on the next quest. The party rests by a campfire; a game window asks Continue? Yes / No." />
