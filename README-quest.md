@@ -1,6 +1,7 @@
 <img src="assets/quest-hero.svg" width="100%" alt="Watin Promfiy — AI Engineer · Data Scientist · Data Engineer. Pixel-art JRPG title screen: a knight, a dwarf and a young mage stand on a road that leads past a BKK / TOKYO signpost toward a distant castle while a mint dragon flies overhead. A message window types: AI Engineer at Asia Energy Tech, shipping LLM agents to production; skills LLMs, RAG, multi-agent systems, knowledge graphs; 6 papers accepted in 2026 (5 first-author) and 3 hackathon wins; next stop Tokyo, KMITL to Musashino University." />
 
 <p align="center">
+  <a href="https://watin-promfiy.vercel.app"><img src="https://img.shields.io/badge/watin--promfiy.vercel.app-18246a?style=for-the-badge&logo=vercel&logoColor=ffffff" alt="Portfolio: watin-promfiy.vercel.app" /></a>
   <a href="mailto:66070184@kmitl.ac.th"><img src="https://img.shields.io/badge/66070184%40kmitl.ac.th-18246a?style=for-the-badge&logo=gmail&logoColor=ffd166" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/watin-promfiy-6b9ba221a/"><img src="https://img.shields.io/badge/LinkedIn-18246a?style=for-the-badge&logo=linkedin&logoColor=6ee6c0" alt="LinkedIn" /></a>
   <a href="https://github.com/E27-25"><img src="https://img.shields.io/badge/E27--25-18246a?style=for-the-badge&logo=github&logoColor=ff9fc8" alt="GitHub" /></a>
