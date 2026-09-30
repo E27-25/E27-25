@@ -1,6 +1,7 @@
 <img src="assets/hero.svg" width="100%" alt="Watin Promfiy — AI Engineer · Data Scientist · Data Engineer. Synthwave banner with a chrome name over a neon sun; a terminal types: AI Engineer at Asia Energy Tech, LLMs · RAG · multi-agent systems, 6 papers accepted in 2026, Bangkok to Tokyo." />
 
 <p align="center">
+  <a href="https://watin-promfiy.vercel.app"><img src="https://img.shields.io/badge/watin--promfiy.vercel.app-0b0a1c?style=for-the-badge&logo=vercel&logoColor=ffffff" alt="Portfolio: watin-promfiy.vercel.app" /></a>
   <a href="mailto:66070184@kmitl.ac.th"><img src="https://img.shields.io/badge/66070184%40kmitl.ac.th-0b0a1c?style=for-the-badge&logo=gmail&logoColor=ff2bd6" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/watin-promfiy-6b9ba221a/"><img src="https://img.shields.io/badge/LinkedIn-0b0a1c?style=for-the-badge&logo=linkedin&logoColor=22e4ff" alt="LinkedIn" /></a>
   <a href="https://github.com/E27-25"><img src="https://img.shields.io/badge/E27--25-0b0a1c?style=for-the-badge&logo=github&logoColor=9d6bff" alt="GitHub" /></a>
